@@ -6,7 +6,7 @@ a Good Script For Point Routers
 #### FindFastWay  (FastAndCheap) 
 #### FindLongWay  (LongAndCheap)
 
-##Sample
+## Sample
 ![alt text](Routes.png) 
 
 A TO D
